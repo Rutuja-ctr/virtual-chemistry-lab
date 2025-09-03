@@ -1,0 +1,50 @@
+{
+  "questions": [
+    {
+      "q": "Limit test is primarily used to detect what in compounds?",
+      "options": ["Purity level", "Impurities (semi-quantitative)", "Molecular weight", "Melting point"],
+      "answerIndex": 1,
+      "feedback": "Limit tests detect trace impurities at or below specified limits."
+    },
+    {
+      "q": "In the chloride limit test, which reagent forms a precipitate with chloride?",
+      "options": ["Ferric chloride", "Silver nitrate", "Lead acetate", "Barium chloride"],
+      "answerIndex": 1,
+      "feedback": "Ag+ reacts with Cl- to form AgCl, seen as opalescence/turbidity."
+    },
+    {
+      "q": "Dilute nitric acid is added before silver nitrate to:",
+      "options": ["Increase pH", "Remove interfering ions (e.g., carbonate)", "Color the solution", "Oxidize chloride"],
+      "answerIndex": 1,
+      "feedback": "Acid prevents precipitation of silver carbonate/phosphate from impurities."
+    },
+    {
+      "q": "Pass criterion for the sample is:",
+      "options": [
+        "Sample more turbid than standard",
+        "Sample equal or less turbid than standard",
+        "No turbidity in either",
+        "Standard must be clear"
+      ],
+      "answerIndex": 1,
+      "feedback": "Sample opalescence ≤ Standard → Pass."
+    },
+    {
+      "q": "Standard solution for comparison contains:",
+      "options": [
+        "1 mL 0.1 M NaCl",
+        "1 mL NaCl standard solution (specified strength)",
+        "10 mL HNO3",
+        "1 mL 0.1 M AgNO3"
+      ],
+      "answerIndex": 1,
+      "feedback": "Standard NaCl solution provides reference turbidity after AgNO3 addition."
+    },
+    {
+      "q": "After adding AgNO3, you should:",
+      "options": ["Boil for 5 min", "Stir and keep for 5 min", "Neutralize immediately", "Discard"],
+      "answerIndex": 1,
+      "feedback": "Allow time for AgCl to form and develop opalescence."
+    }
+  ]
+}
